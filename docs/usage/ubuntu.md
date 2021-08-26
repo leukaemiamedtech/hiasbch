@@ -1,6 +1,6 @@
 # Ubuntu Usage Guide
 
-![HIASBCH](../../img/project-banner.jpg)
+![HIASBCH](../img/project-banner.jpg)
 
 The following guide provides information about how to manage and use your HIASBCH Private Ethereum Blockchain.
 
