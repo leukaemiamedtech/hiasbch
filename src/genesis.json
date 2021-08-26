@@ -1,0 +1,20 @@
+{
+    "config": {
+        "chainId": YourHiasbchChainId,
+        "byzantiumBlock": 0,
+        "constantinopleBlock": 0,
+        "petersburgBlock": 0,
+        "homesteadBlock": 0,
+        "istanbulBlock": 0,
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0
+    },
+    "difficulty": "0x400",
+    "gasLimit": "0xE0000000",
+    "alloc": {
+        "YourHiasbchAddress": {
+            "balance": "99999999999999999999999999999999999999999999999999999999999999999999999999999"
+        }
+    }
+}
