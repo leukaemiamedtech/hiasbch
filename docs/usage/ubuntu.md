@@ -34,37 +34,37 @@ sudo systemctl start HIASBCH.service
 
 # HIASBCH UI
 
-![HIASBCH UI](../../img/hiasbch-explorer.jpg)
+![HIASBCH UI](../img/hiasbch-explorer.jpg)
 
 The HIASBCH UI allows you to manage the configuration for HIASBCH and explore the blockchain.
 
 ## HIASBCH Explorer
 
-![HIASBCH UI](../../img/hiasbch-explorer-block.jpg)
+![HIASBCH UI](../img/hiasbch-explorer-block.jpg)
 
 You can explore your blockchain by using the HIASBCH Blockchain Explorer. To access the explorer navigate to `HIASBCH` -> `Dashboard`.
 
 ## Settings
 
-![HIASBCH UI](../../img/hiasbch-settings.jpg)
+![HIASBCH UI](../img/hiasbch-settings.jpg)
 
 You can manage the settings for HIASBCH by navigating to `HIASBCH` -> `Configuration`.
 
 ## Contextual Data
 
-![HIASBCH UI](../../img/hiasbch-entity.jpg)
+![HIASBCH UI](../img/hiasbch-entity.jpg)
 
 You can manage the contextual data for HIASBCH by navigating to `HIASBCH` -> `Entity`.
 
 ## Smart Contracts
 
-![HIASBCH UI](../../img/hiasbch-smart-contracts.jpg)
+![HIASBCH UI](../img/hiasbch-smart-contracts.jpg)
 
 You can manage the HIASBCH Smart Contracts by navigating to `HIASBCH` -> `Contracts`.
 
 ## Ether Transfer
 
-![HIASBCH UI](../../img/hiasbch-ether-transfer.jpg)
+![HIASBCH UI](../img/hiasbch-ether-transfer.jpg)
 
 You can transfer HIAS Ether to devices and applications by navigating to `HIASBCH` -> `Transfer`.
 
